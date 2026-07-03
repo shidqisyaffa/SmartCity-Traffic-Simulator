@@ -1,0 +1,29 @@
+# Local-only/Private project documents to exclude from git as requested
+DEVELOPMENT_RULES.md
+PROJECT_SPEC.md
+CHANGELOG.md
+
+# Node dependencies
+node_modules/
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Agent files
+.agents/
+.gemini/

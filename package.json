@@ -1,0 +1,19 @@
+{
+  "name": "smartcity-traffic-simulator",
+  "version": "1.0.0",
+  "description": "SmartCity Traffic Simulator comparing Sequential and Parallel Floyd-Warshall and Vehicle Updates.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "floyd-warshall",
+    "traffic-simulator",
+    "parallel-computing",
+    "web-workers",
+    "sharedarraybuffer"
+  ],
+  "author": "Antigravity AI",
+  "license": "MIT",
+  "dependencies": {}
+}
